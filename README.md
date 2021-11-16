@@ -1,2 +1,0 @@
-# testrebase
-Testing rebase command
